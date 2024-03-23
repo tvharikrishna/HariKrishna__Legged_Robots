@@ -1,2 +1,2 @@
-# HariKrishna__Legged_Robots
-Legged Robots
+# HariKrishna__Reinforcement_Learning
+Reinforcement_Learning

@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HKIsaac</strong></td>
+<td align="center"><strong>HKISAAC</strong></td>
 <td align="center">Simulations in NVIDIA Isaac</td>
 </tr>
 <tr>

@@ -8,40 +8,30 @@
 # 🔻Repository Details
 <p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics.</p>
 
-# 🔻State-of-the-Art (SOTA) Computer Vision Techniques
-
-<!-- Stereo Vision Overview -->
-<p align="center"></p>
-<div align="center">
-<table>
+<!-- Repo Details -->
+<h1 align="left">🔻 Repository Details</h1>
+<table align="center">
+<thead>
 <tr>
-    <th>Stereo Vision</th>
-    <th>Depth Estimation</th>
-    <th>Visual Odometry</th>
-    <th>Augmented Reality</th>
+<th align="center">Naming Prefix</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>HKROS</strong></td>
+<td align="center">Simulations in Gazebo</td>
 </tr>
 <tr>
-    <td>3D Reconstruction</td>
-    <td>3D Flow Scene</td>
-    <td>Structure from Motion</td>
-    <td>3D SLAM</td>
+<td align="center"><strong>HKIsaac</strong></td>
+<td align="center">Simulations in Nvidia Isaac</td>
 </tr>
 <tr>
-    <td>Vision Segmentation</td>
-    <td>Pose Estimation</td>
-    <td>3D Scene Understanding</td>
-    <td>Visual SLAM</td>
+<td align="center"><strong>HKBOT</strong></td>
+<td align="center">Hands-on Custom made mobile robot</td>
 </tr>
-<tr>
-    <td>Optical Flow Estimation</td>
-    <td>Multi-View Stereo</td>
-    <td>Stereo Camera Calibration</td>
-    <td>Point Clouds</td>
-</tr>
+</tbody>
 </table>
-</div>
-
-
 
 # 🔻Tools & Technologies
 The following tools will be utilized in the development of these projects.

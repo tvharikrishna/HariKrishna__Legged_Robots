@@ -1,12 +1,12 @@
 <!-- README: HariKrishna_ComputerVision-->
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
+<p align="right">© Documentation by tvharikrishna</p>
+<p align="right">1 minute read 📚</p>
 
-# 🔻What is Computer Vision
-<p align='justify'>Computer Vision is a domain within computer science that empowers computers and systems to extract significant information from digital images, videos, and other visual inputs and to take action based on that information. It emulates human vision by recognizing patterns, objects etc.</p>
+# 🔻 What are Legged Robots?
+<p align='justify'>Legged robots are advanced robotic systems designed to navigate various terrains using legs, similar to animals. This category includes bipedal robots (two legs), quadruped robots (four legs), and more complex forms like spider robots with eight legs. These robots are designed to handle tasks and environments that are challenging for wheeled or tracked robots, offering flexibility in movement and the ability to overcome obstacles.</p>
 
-# 🔻Repository Details
-<p align='justify'>This repository meticulously documents my extensive journey through various projects related to Computer Vision, showcasing a deep dive into the mechanics and applications of modern visual perception technologies. As stated below, my projects relate to the following topics.</p>
+# 🔻 Repository Details
+<p align='justify'>This repository contains various simulations of legged robots, including bipedal, quadruped, and spider-like robots, focusing on their locomotion strategies from navigation to path planning. The simulations are conducted using PyBullet, MuJoCo, NVIDIA Isaac Sim, and Gazebo, leveraging both ROS 1 and ROS 2 frameworks.</p>
 
 <!-- Repo Details -->
 <h1 align="left">🔻 Repository Details</h1>
@@ -19,25 +19,30 @@
 </thead>
 <tbody>
 <tr>
+<td align="center"><strong>HKIsaac</strong></td>
+<td align="center">Simulations in NVIDIA Isaac</td>
+</tr>
+<tr>
+<td align="center"><strong>HKMUJOCO</strong></td>
+<td align="center">Simulations in MuJoCo</td>
+</tr>
+<tr>
+<td align="center"><strong>HKBULLET</strong></td>
+<td align="center">Simulations in PyBullet</td>
+</tr>
+<tr>
 <td align="center"><strong>HKROS</strong></td>
 <td align="center">Simulations in Gazebo</td>
-</tr>
-<tr>
-<td align="center"><strong>HKIsaac</strong></td>
-<td align="center">Simulations in Nvidia Isaac</td>
-</tr>
-<tr>
-<td align="center"><strong>HKBOT</strong></td>
-<td align="center">Hands-on Custom made mobile robot</td>
 </tr>
 </tbody>
 </table>
 
-# 🔻Tools & Technologies
-The following tools will be utilized in the development of these projects.
+# 🔻 Framework & Tools
 
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/C++-004482.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C++" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Pillow-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Pillow" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Open3D-4B8BBE.svg?&style=flat-square&logo=python&logoColor=white" alt="Open3D" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/PCL-568203.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="PCL" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Cloud%20Compare-A42E2B.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="Cloud Compare" style="height: 22px;"/> &nbsp; <img src="https://img.shields.io/badge/Mesh-000000.svg?&style=flat-square&logo=blender&logoColor=white" alt="Mesh" style="height: 22px;"/> <hr> <br>
+<img src="https://img.shields.io/badge/ROS%201-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 35px;"/> &nbsp; <img src="https://img.shields.io/badge/ROS%202-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 35px;"/> &nbsp; <img src="https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 35px;"/> &nbsp; <img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 35px;"/> &nbsp; <img src="https://img.shields.io/badge/MuJoCo-008080.svg?&style=flat-square&logo=Brave&logoColor=white" alt="MuJoCo" style="height: 35px;"/> &nbsp; <img src="https://img.shields.io/badge/PyBullet-FFA500.svg?&style=flat-square&logo=deno&logoColor=464647" alt="PyBullet" style="height: 35px;"/> &nbsp;
+
+<hr> 
 
 <p align="center">
-    <img src="readme_data/HKCV_quote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/HKCV_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
 </p>

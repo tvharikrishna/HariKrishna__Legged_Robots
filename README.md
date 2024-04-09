@@ -50,5 +50,5 @@
 <hr> 
 
 <p align="center">
-    <img src="readme_data/HKCV_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
 </p>

@@ -39,12 +39,12 @@
 
 # 🔻 Framework & Tools
 
-<img src="https://img.shields.io/badge/ROS%201-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS%202-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/MuJoCo-008080.svg?&style=flat-square&logo=Brave&logoColor=white" alt="MuJoCo" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/PyBullet-FFA500.svg?&style=flat-square&logo=deno&logoColor=464647" alt="PyBullet" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS%201-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS%202-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/MuJoCo-008080.svg?&style=flat-square&logo=Brave&logoColor=white" alt="MuJoCo" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/PyBullet-FFA500.svg?&style=flat-square&logo=deno&logoColor=464647" alt="PyBullet" style="height: 30px;"/> &nbsp;
 
 
 <hr> 

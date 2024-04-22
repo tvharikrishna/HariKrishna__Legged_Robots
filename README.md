@@ -2,6 +2,10 @@
 <p align="right">© Documentation by tvharikrishna</p>
 <p align="right">1 minute read 📚</p>
 
+<p align="center">
+    <img src="readme_data/lr_welcome.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
+</p>
+
 # 🔻 What are Legged Robots?
 <p align='justify'>Legged robots are advanced robotic systems designed to navigate various terrains using legs, similar to animals. This category includes bipedal robots (two legs), quadruped robots (four legs), and more complex forms like spider robots with eight legs. These robots are designed to handle tasks in challenging environments.
 
@@ -37,17 +41,7 @@
 </tbody>
 </table>
 
-# 🔻 Framework & Tools
-
-<img src="https://img.shields.io/badge/ROS%201-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS%202-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/MuJoCo-008080.svg?&style=flat-square&logo=Brave&logoColor=white" alt="MuJoCo" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/PyBullet-FFA500.svg?&style=flat-square&logo=deno&logoColor=464647" alt="PyBullet" style="height: 30px;"/> &nbsp;
-
-
-<hr> 
+<hr> <br> <br> 
 
 <p align="center">
     <img src="readme_data/hk_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>

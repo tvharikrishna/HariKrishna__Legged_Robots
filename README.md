@@ -34,10 +34,6 @@
 <td align="center"><strong>HKBULLET</strong></td>
 <td align="center">Simulations in PyBullet</td>
 </tr>
-<tr>
-<td align="center"><strong>HKROS</strong></td>
-<td align="center">Simulations in Gazebo</td>
-</tr>
 </tbody>
 </table>
 

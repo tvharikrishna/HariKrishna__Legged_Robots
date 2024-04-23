@@ -7,7 +7,7 @@
 </p>
 
 # 🔻 Repository Details
-<p align='justify'>This repository contains various simulations of legged robots, including bipedal, quadruped, and spider-like robots, focusing on their locomotion strategies, SLAM, navigation, motion planning and physics analysis. The simulations are conducted using PyBullet, MuJoCo, NVIDIA Isaac Sim, and Gazebo, leveraging both ROS 1 and ROS 2 frameworks.</p>
+<p align='justify'>This repository contains various simulations of legged robots, including bipedal, quadruped, and spider-like robots, focusing on their locomotion strategies, SLAM, navigation, motion planning and physics analysis. The simulations are conducted using PyBullet, MuJoCo and NVIDIA Isaac Sim, leveraging both ROS 1 and ROS 2 frameworks.</p>
 
 <!-- Repo Details Table -->
 <table align="center">

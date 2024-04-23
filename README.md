@@ -1,6 +1,6 @@
 <!-- README: HariKrishna_ComputerVision-->
 <p align="right">© Documentation by tvharikrishna</p>
-<p align="right">1 minute read 📚</p>
+<p align="right">1 minute read 📚</p><br>
 
 # 🔻 Repository Details
 <p align='justify'>This repository contains various simulations of legged robots, including bipedal, quadruped, and spider-like robots, focusing on their locomotion strategies, SLAM, navigation, motion planning and physics analysis. The simulations are conducted using PyBullet, MuJoCo, NVIDIA Isaac Sim, and Gazebo, leveraging both ROS 1 and ROS 2 frameworks.</p>
@@ -29,6 +29,7 @@
 </tr>
 </tbody>
 </table>
+<br>
 
 <p align="center">
     <img src="readme_data/lr_welcome.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>

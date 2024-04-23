@@ -1,5 +1,5 @@
 <p align="right">© Documentation by tvharikrishna</p>
-<p align="right">1 minute read 📚</p><br>
+<p align="right">1 minute read 📚</p> <br>
 
 <p align="center">
     <img src="readme_data/lr_welcome.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>

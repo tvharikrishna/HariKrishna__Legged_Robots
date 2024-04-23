@@ -21,6 +21,10 @@
 <td align="right">Simulations in NVIDIA Isaac</td>
 </tr>
 <tr>
+<td align="left"><strong>HK_Gazebo__</strong></td>
+<td align="right">Simulations in Gazebo</td>
+</tr>
+<tr>
 <td align="left"><strong>HK_MuJoCo__</strong></td>
 <td align="right">Simulations in MuJoCo</td>
 </tr>

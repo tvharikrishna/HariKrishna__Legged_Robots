@@ -21,11 +21,11 @@
 <td align="right">Simulations in NVIDIA Isaac</td>
 </tr>
 <tr>
-<td align="left"><strong>HK_Mujoco__</strong></td>
+<td align="left"><strong>HK_MuJoCo__</strong></td>
 <td align="right">Simulations in MuJoCo</td>
 </tr>
 <tr>
-<td align="left"><strong>HK_Bullet__</strong></td>
+<td align="left"><strong>HK_PyBullet__</strong></td>
 <td align="right">Simulations in PyBullet</td>
 </tr>
 </tbody>

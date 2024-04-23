@@ -19,16 +19,16 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HK_Isaac__</strong></td>
-<td align="center">Simulations in NVIDIA Isaac</td>
+<td align="left"><strong>HK_Isaac__</strong></td>
+<td align="right">Simulations in NVIDIA Isaac</td>
 </tr>
 <tr>
-<td align="center"><strong>HK_Mujoco__</strong></td>
-<td align="center">Simulations in MuJoCo</td>
+<td align="left"><strong>HK_Mujoco__</strong></td>
+<td align="right">Simulations in MuJoCo</td>
 </tr>
 <tr>
-<td align="center"><strong>HK_Bullet__</strong></td>
-<td align="center">Simulations in PyBullet</td>
+<td align="left"><strong>HK_Bullet__</strong></td>
+<td align="right">Simulations in PyBullet</td>
 </tr>
 </tbody>
 </table>
